@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+This is my readme, I have nothing left, but will add to it as I proceed :)
 <!--
 **Erickoo0/Erickoo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
